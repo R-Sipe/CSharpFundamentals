@@ -8,6 +8,7 @@ namespace _08_Interfaces.Currency
 {
     public class Transaction
     {
+        // Making it private readonly allows its info insde the class, but we can only set it at the time of construction
         private readonly ICurrency _currency;
 
         public Transaction(ICurrency currency)
@@ -18,7 +19,7 @@ namespace _08_Interfaces.Currency
         }
 
         public DateTimeOffset DateOfTransaction { get; private set; }
-
+        //accesor //return // name (Parameters)
         public decimal GetTransactionAmount()
         {
             //Acessing the object being held in the readonly _currency field, getting into its properties
