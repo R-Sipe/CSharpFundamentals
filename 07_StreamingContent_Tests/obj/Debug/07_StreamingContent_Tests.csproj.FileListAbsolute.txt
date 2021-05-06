@@ -1,0 +1,16 @@
+C:\SDGoldProj\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\SDGoldProj\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\SDGoldProj\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\SDGoldProj\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\07_StreamingContent_Tests.dll
+C:\SDGoldProj\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\07_StreamingContent_Tests.pdb
+C:\SDGoldProj\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\07_StreamingContent_Repository.dll
+C:\SDGoldProj\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\SDGoldProj\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\SDGoldProj\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\07_StreamingContent_Repository.pdb
+C:\SDGoldProj\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\SDGoldProj\CSharpFundamentals\07_StreamingContent_Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\SDGoldProj\CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.csprojAssemblyReference.cache
+C:\SDGoldProj\CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.csproj.CoreCompileInputs.cache
+C:\SDGoldProj\CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.csproj.CopyComplete
+C:\SDGoldProj\CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.dll
+C:\SDGoldProj\CSharpFundamentals\07_StreamingContent_Tests\obj\Debug\07_StreamingContent_Tests.pdb
